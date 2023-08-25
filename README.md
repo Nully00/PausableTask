@@ -4,7 +4,6 @@
 
 かむ  
 <img src="https://github.com/Nully00/PausableTask/assets/93513983/39cdc9b6-a4a4-4ffc-a5a2-63a89a4df3c0" width="100">
-
 https://twitter.com/nnmagg
 
 nulock  
